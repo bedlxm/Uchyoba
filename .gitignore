@@ -21,6 +21,6 @@ replit.nix
 !/content/Учёба/Практика/2.1.2026/Физика/.gitkeep
 
 /content/temp.md
-/content/'Справочник по MarkDown.md'
+'/content/Справочник по MarkDown.md'
 /content/Canvas.canvas
-/content/'Linux shell.md'
+'/content/Linux shell.md'
