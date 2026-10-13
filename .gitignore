@@ -10,6 +10,7 @@ private/
 .replit
 replit.nix
 
+
 # Игнорировать всё содержимое внутри этих папок
 /content/Учёба/Практика/2.1.2026/Интегралы и Дифференциальные уравнения/*
 /content/Учёба/Практика/2.1.2026/Информатика/*
@@ -19,3 +20,8 @@ replit.nix
 !/content/Учёба/Практика/2.1.2026/Интегралы и Дифференциальные уравнения/.gitkeep
 !/content/Учёба/Практика/2.1.2026/Информатика/.gitkeep
 !/content/Учёба/Практика/2.1.2026/Физика/.gitkeep
+
+/content/temp.md
+/content/'Справочник по MarkDown.md'
+/content/Canvas.canvas
+/content/'Linux shell.md'
