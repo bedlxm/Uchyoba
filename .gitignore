@@ -22,9 +22,15 @@ replit.nix
 !/content/Учёба/Практика/2.1.2026/Физика/.gitkeep
 
 /content/temp.md
-'/content/Справочник по MarkDown.md'
+/content/Справочник по MarkDown.md
 /content/Canvas.canvas
-'/content/Linux shell.md'
+/content/Linux shell.md
 /content/graphs_pdf
-/content/Учёба/Практика/*/*/ДЗ
-'/content/Учёба/Практика/*/*/*ДЗ*'
+# Игнорировать все файлы с ДЗ в названии внутри папки Практика
+**/Практика/**/*ДЗ*
+**/Практика/*ДЗ*
+**/Практика/**/*дз*
+**/Практика/*дз*
+**/Практика/**/*Вклейка*
+**/Практика/*Вклейка*
+
